@@ -4,7 +4,7 @@
   "description": "A demo testing CommonJS jQuery code with Mochify.",
   "main": "src/app.js",
   "scripts": {
-    "test": "mocha-phantomjs test/testrunner.html"
+    "test": "mochify"
   },
   "repository": {
     "type": "git",
